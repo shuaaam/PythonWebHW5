@@ -40,4 +40,3 @@ if __name__ == "__main__":
     time_passed = time() - timer
     print(f'Time passed (multiprocessing script): {time_passed}')
     print(f'Values :\n {a},\n {b},\n {c},\n {d}')
-
