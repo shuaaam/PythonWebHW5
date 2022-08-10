@@ -1,7 +1,6 @@
 import requests
-from time import time
+from time import time, sleep
 from multiprocessing import Pool, cpu_count
-from time import sleep
 
 
 def factorize(*number):
